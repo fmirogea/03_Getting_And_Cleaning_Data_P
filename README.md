@@ -7,3 +7,7 @@ The script run_analysis.R is doing the following:
 - Uses descriptive activity names to name the activities in the data set
 - Appropriately labels the data set with descriptive variable names. 
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+The Code Book.pdf explains the variable which compone the tidy_data.txt
+
+The tidy_data.txt is the output of the data analysis.
